@@ -45,8 +45,6 @@
     * F1 Score: 0.872%
     * Sin sesgo entre las diferentes clases
 
-## Aplicación del Modelo Supervisado
-
 **Base de datos:** 1,801,635 tuits de usuarios colombianos (junio de 2022)
 
 **Resultados:**
@@ -56,55 +54,6 @@
     * Política (361,315 tuits)
     * Deportes (243,031 tuits)
 
-## Experimentación para la Generación de Tópicos
-
-**Modelo:** Bertopic
-
-**Objetivo:** Generar automáticamente tópicos relacionados con la clase política
-
-**Parámetros:**
-
-* Agrupación de documentos
-* Reducción de dimensionalidad
-* Agrupación
-* Bolsa de palabras
-* Número de temas
-* N-gramas
-
-**Métricas:**
-
-* CV (coherencia del vocabulario)
-* UMASS (coherencia de los tópicos)
-
-**Resultados:**
-
-* **Mejor combinación de parámetros:**
-    * Número de vecinos: 20
-    * Número de componentes: 8
-    * Tamaño mínimo de clúster: 20
-    * CV: 0.45
-    * UMASS: -0.44
-
-## Aplicación del Modelo Bertopic Sintonizado
-
-**Base de datos:** Tuits relacionados con la clase política (junio de 2022)
-
-**Resultados:**
-
-* **Total de tópicos:** 752
-* **Temas más populares:**
-    * Tópico 1 (8000 tuits)
-    * Tópico 0 (7886 tuits)
-    * Tópico 2 (6663 tuits)
-* **Temas menos frecuentes:**
-    * Tópico 699 (27 tuits)
-    * Tópico 717 (28 tuits)
-    * Tópico 611 (34 tuits)
-
-**Análisis temporal:**
-
-* Se observa una evolución de los temas a lo largo del tiempo.
-* Se identifican picos de actividad en ciertos temas en fechas específicas.
 
 ## Conclusiones
 

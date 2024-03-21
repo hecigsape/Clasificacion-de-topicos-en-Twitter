@@ -19,7 +19,7 @@ Este repositorio se analiza y detecta los temas de conversación en Twitter dura
 * Estrategias de publicidad dirigida.
 * Análisis político en diversos contextos.
 
-**Palabras clave:** #PLN #ML #EleccionesColombia #Twitter #AnálisisDeTemas #Bertopic #UMAP #HDBSCAN
+**Palabras clave:** #PLN #ML #EleccionesColombia #Twitter #AnálisisDeTemas 
 
 ## Entendimiento del problema
 * Descripción del Problema [enlace readme]
@@ -35,7 +35,7 @@ Este repositorio se analiza y detecta los temas de conversación en Twitter dura
 
 Este estudio se basa en un repositorio base para generar un portafolio como ingeniero de Machine Learning. El repositorio incluye:
 
-* Código fuente de las estructuras.
+* Código fuente de la estructuras.
 * Conjunto de datos de tweets utilizados en el estudio.
 * Resultados experimentales.
 

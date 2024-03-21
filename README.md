@@ -35,7 +35,7 @@ Este repositorio se analiza y detecta los temas de conversación en Twitter dura
 
 Este estudio se basa en un repositorio base para generar un portafolio como ingeniero de Machine Learning. El repositorio incluye:
 
-* Código fuente de las estructuras 1 y 2.
+* Código fuente de las estructuras.
 * Conjunto de datos de tweets utilizados en el estudio.
 * Resultados experimentales.
 
